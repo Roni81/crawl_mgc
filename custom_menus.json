@@ -1,0 +1,1609 @@
+{
+  "meta": {
+    "created_at": "2025-02-07T19:06:27.465117",
+    "total_products": 100,
+    "source": "MEGA MGC COFFEE"
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "딸기라떼",
+      "temperature": "ICE",
+      "title_eng": "Strawberry Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20250116001724_1736954244791_8qDsY0gj14.jpg",
+      "nutrition": {
+        "kcal": 366.4,
+        "fat": 3.0,
+        "carbohydrate": 47.3,
+        "sodium": 50.0,
+        "protein": 5.8,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "title": "왕메가 딸기라떼",
+      "temperature": "ICE",
+      "title_eng": "Big Mega Strawberry Latte",
+      "size": "32oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20250116001747_1736954267197_X_3Q3e991m.jpg",
+      "nutrition": {
+        "kcal": 544.9,
+        "fat": 3.4,
+        "carbohydrate": 111.9,
+        "sodium": 80.0,
+        "protein": 8.2,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "title": "딸기젤라또 퐁당 프라페",
+      "temperature": "ICE",
+      "title_eng": "Strawberry Gelato Frappe",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20250116001807_1736954287343_nWA3508Jn3.jpg",
+      "nutrition": {
+        "kcal": 428.0,
+        "fat": 6.3,
+        "carbohydrate": 85.3,
+        "sodium": 47.9,
+        "protein": 0.7,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "title": "별빛가득 딸기 요구르트",
+      "temperature": "ICE",
+      "title_eng": "Strawberry Yogurt",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20250110194912_1736506152356_phXYyWCrj9.jpg",
+      "nutrition": {
+        "kcal": 351.4,
+        "fat": 0.2,
+        "carbohydrate": 82.1,
+        "sodium": 39.1,
+        "protein": 0.2,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "title": "달콤상큼 딸기라임펀치",
+      "temperature": "ICE",
+      "title_eng": "Strawberry Lime Punch",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20250110195016_1736506216965_aZZtPMxDrr.jpg",
+      "nutrition": {
+        "kcal": 257.9,
+        "fat": 0.0,
+        "carbohydrate": 62.2,
+        "sodium": 4.9,
+        "protein": 0.3,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "title": "피넛츠 카페라떼",
+      "temperature": "ICE",
+      "title_eng": "Peanuts almond latte",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20241226064045_1735162845413_J6R2wNNH5i.jpg",
+      "nutrition": {
+        "kcal": 333.1,
+        "fat": 1.7,
+        "carbohydrate": 44.5,
+        "sodium": 293.2,
+        "protein": 6.0,
+        "caffeine": 91.4
+      }
+    },
+    {
+      "id": 7,
+      "title": "피넛츠 카페라떼",
+      "temperature": "HOT",
+      "title_eng": "Peanuts almond latte",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20241226063847_1735162727403_rxHlm2UhLm.jpg",
+      "nutrition": {
+        "kcal": 344.0,
+        "fat": 1.8,
+        "carbohydrate": 48.0,
+        "sodium": 302.4,
+        "protein": 6.1,
+        "caffeine": 92.7
+      }
+    },
+    {
+      "id": 8,
+      "title": "(HOT)상큼 리치티",
+      "temperature": "HOT",
+      "title_eng": "(HOT) Zesty Lychee Tea",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20241106234009_1730904009276_fu30eMash6.jpg",
+      "nutrition": {
+        "kcal": 274.8,
+        "fat": 0.1,
+        "carbohydrate": 64.1,
+        "sodium": 10.1,
+        "protein": 0.7,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 9,
+      "title": "(ICE)상큼 리치티",
+      "temperature": "ICE",
+      "title_eng": "(ICE) Zesty Lychee Tea",
+      "size": "24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20241106234210_1730904130583_8wBT7nkLrL.jpg",
+      "nutrition": {
+        "kcal": 260.1,
+        "fat": 0.0,
+        "carbohydrate": 61.9,
+        "sodium": 8.0,
+        "protein": 0.7,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 10,
+      "title": "할메가미숫커피",
+      "temperature": "ICE",
+      "title_eng": "MEGA MGC Mix Coffee Blend with Grain Powder",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240904234012_1725460812247_PgldrBOdUW.jpg",
+      "nutrition": {
+        "kcal": 413.0,
+        "fat": 7.7,
+        "carbohydrate": 45.4,
+        "sodium": 17.9,
+        "protein": 6.4,
+        "caffeine": 172.9
+      }
+    },
+    {
+      "id": 11,
+      "title": "라이트 바닐라 아몬드라떼",
+      "temperature": "ICE",
+      "title_eng": "Light vanilla almond latte",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240703154302_1719988982437_ZzHlEUdQwF.jpg",
+      "nutrition": {
+        "kcal": 75.3,
+        "fat": 0.2,
+        "carbohydrate": 3.1,
+        "sodium": 119.0,
+        "protein": 2.1,
+        "caffeine": 206.2
+      }
+    },
+    {
+      "id": 12,
+      "title": "왕메가초코",
+      "temperature": "ICE",
+      "title_eng": " 32oz MEGA Chocolate",
+      "size": "32oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114853_1717987733636_Uq2ZKYINXZ.jpg",
+      "nutrition": {
+        "kcal": 574.2,
+        "fat": 6.7,
+        "carbohydrate": 77.3,
+        "sodium": 267.1,
+        "protein": 11.9,
+        "caffeine": 35.6
+      }
+    },
+    {
+      "id": 13,
+      "title": "왕메가아이스티",
+      "temperature": "ICE",
+      "title_eng": "32oz MEGA Peach Iced Tea",
+      "size": "32oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113625_1717986985834_J_PTjRFq7P.jpg",
+      "nutrition": {
+        "kcal": 474.8,
+        "fat": 0.0,
+        "carbohydrate": 96.6,
+        "sodium": 119.2,
+        "protein": 0.4,
+        "caffeine": 41.2
+      }
+    },
+    {
+      "id": 14,
+      "title": "제로 복숭아 아이스티",
+      "temperature": "ICE",
+      "title_eng": "ZERO Sugar Peach Iced Tea",
+      "size": "24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113548_1717986948917_wK8B5fR4h5.jpg",
+      "nutrition": {
+        "kcal": 26.1,
+        "fat": 0.0,
+        "carbohydrate": 0.7,
+        "sodium": 5.3,
+        "protein": 0.1,
+        "caffeine": 14.5
+      }
+    },
+    {
+      "id": 15,
+      "title": "연유라떼",
+      "temperature": "ICE",
+      "title_eng": "Condensed Milk Latte",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132459_1717993499610_KiXcTR2q5P.jpg",
+      "nutrition": {
+        "kcal": 351.5,
+        "fat": 8.5,
+        "carbohydrate": 31.9,
+        "sodium": 123.6,
+        "protein": 11.8,
+        "caffeine": 165.9
+      }
+    },
+    {
+      "id": 16,
+      "title": "골드망고스무디",
+      "temperature": "ICE",
+      "title_eng": "Gold Mango Smoothie",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112826_1717986506337_AauGwyguRG.jpg",
+      "nutrition": {
+        "kcal": 209.5,
+        "fat": 0.1,
+        "carbohydrate": 38.4,
+        "sodium": 20.7,
+        "protein": 0.8,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 17,
+      "title": "할메가커피",
+      "temperature": "ICE",
+      "title_eng": "MEGA Mix Coffee",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113252_1717986772176_6c36zo5yuf.jpg",
+      "nutrition": {
+        "kcal": 281.9,
+        "fat": 7.7,
+        "carbohydrate": 30.3,
+        "sodium": 22.5,
+        "protein": 1.9,
+        "caffeine": 99.6
+      }
+    },
+    {
+      "id": 18,
+      "title": "왕할메가커피",
+      "temperature": "ICE",
+      "title_eng": "BIG MEGA Mix Coffee",
+      "size": "32oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114915_1717987755314_1rAv8UqZUm.jpg",
+      "nutrition": {
+        "kcal": 468.7,
+        "fat": 12.3,
+        "carbohydrate": 48.5,
+        "sodium": 36.8,
+        "protein": 3.1,
+        "caffeine": 196.4
+      }
+    },
+    {
+      "id": 19,
+      "title": "코코넛 커피 스무디",
+      "temperature": "ICE",
+      "title_eng": "Coconut Coffee Smoothie",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132830_1717993710301_PxTeTM9Suh.jpg",
+      "nutrition": {
+        "kcal": 746.5,
+        "fat": 29.3,
+        "carbohydrate": 61.4,
+        "sodium": 347.1,
+        "protein": 9.4,
+        "caffeine": 173.8
+      }
+    },
+    {
+      "id": 20,
+      "title": "레드오렌지자몽주스",
+      "temperature": "ICE",
+      "title_eng": "Red Orange-Grapefruit Juice",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114724_1717987644333_VifgWYO47n.jpg",
+      "nutrition": {
+        "kcal": 205.3,
+        "fat": 0.0,
+        "carbohydrate": 43.7,
+        "sodium": 7.9,
+        "protein": 0.9,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 21,
+      "title": "샤인머스캣그린주스",
+      "temperature": "ICE",
+      "title_eng": "Shine Muscat-Kale Juice",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114703_1717987623930_VIj7O6_wB4.jpg",
+      "nutrition": {
+        "kcal": 218.1,
+        "fat": 0.0,
+        "carbohydrate": 46.7,
+        "sodium": 10.1,
+        "protein": 0.8,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 22,
+      "title": "딸기주스",
+      "temperature": "ICE",
+      "title_eng": "Strawberry Juice",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114741_1717987661472_LqJw6WITHO.jpg",
+      "nutrition": {
+        "kcal": 228.0,
+        "fat": 0.0,
+        "carbohydrate": 54.0,
+        "sodium": 11.0,
+        "protein": 1.5,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 23,
+      "title": "딸기바나나주스",
+      "temperature": "ICE",
+      "title_eng": "Strawberry-Banana Juice",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610114817_1717987697259_APSvRawmJi.jpg",
+      "nutrition": {
+        "kcal": 268.5,
+        "fat": 1.5,
+        "carbohydrate": 42.2,
+        "sodium": 41.1,
+        "protein": 4.1,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 24,
+      "title": "디카페인 에스프레소",
+      "temperature": "HOT",
+      "title_eng": " Decaf Espresso",
+      "size": "One size / 2oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110159_1717984919074_jg4RYBdr_J.jpg",
+      "nutrition": {
+        "kcal": 6.2,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 0.6,
+        "protein": 0.2,
+        "caffeine": 4.9
+      }
+    },
+    {
+      "id": 25,
+      "title": "디카페인 아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Decaf Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105207_1717984327186_Sgj9kfKYCi.jpg",
+      "nutrition": {
+        "kcal": 8.4,
+        "fat": 0.1,
+        "carbohydrate": 0.0,
+        "sodium": 8.4,
+        "protein": 0.5,
+        "caffeine": 11.4
+      }
+    },
+    {
+      "id": 26,
+      "title": "디카페인 꿀아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Decaf Honey Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104414_1717983854651_gNaXxjR35W.jpg",
+      "nutrition": {
+        "kcal": 149.3,
+        "fat": 0.1,
+        "carbohydrate": 26.2,
+        "sodium": 7.5,
+        "protein": 0.5,
+        "caffeine": 11.3
+      }
+    },
+    {
+      "id": 27,
+      "title": "디카페인 헤이즐넛 아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Decaf Hazelnut Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105046_1717984246492_KeavFH2VTO.jpg",
+      "nutrition": {
+        "kcal": 84.2,
+        "fat": 0.0,
+        "carbohydrate": 10.3,
+        "sodium": 5.3,
+        "protein": 0.5,
+        "caffeine": 6.9
+      }
+    },
+    {
+      "id": 28,
+      "title": "디카페인 바닐라 아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Decaf Vanilla Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104650_1717984010944__Ck8jyuaDL.jpg",
+      "nutrition": {
+        "kcal": 86.9,
+        "fat": 0.1,
+        "carbohydrate": 16.9,
+        "sodium": 5.1,
+        "protein": 0.5,
+        "caffeine": 9.1
+      }
+    },
+    {
+      "id": 29,
+      "title": "디카페인 카페라떼",
+      "temperature": "HOT",
+      "title_eng": "Decaf Cafe Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105117_1717984277710_7BjonXSBFE.jpg",
+      "nutrition": {
+        "kcal": 178.5,
+        "fat": 4.8,
+        "carbohydrate": 11.4,
+        "sodium": 102.1,
+        "protein": 10.0,
+        "caffeine": 17.0
+      }
+    },
+    {
+      "id": 30,
+      "title": "디카페인 카푸치노",
+      "temperature": "HOT",
+      "title_eng": "Decaf Cappuccino",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105545_1717984545629_CaGhOpvAnm.jpg",
+      "nutrition": {
+        "kcal": 152.9,
+        "fat": 4.5,
+        "carbohydrate": 10.4,
+        "sodium": 80.6,
+        "protein": 8.1,
+        "caffeine": 11.3
+      }
+    },
+    {
+      "id": 31,
+      "title": "디카페인 바닐라라떼",
+      "temperature": "HOT",
+      "title_eng": "Decaf Vanilla Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104630_1717983990934_v3HPYN93uK.jpg",
+      "nutrition": {
+        "kcal": 219.5,
+        "fat": 4.7,
+        "carbohydrate": 29.1,
+        "sodium": 85.8,
+        "protein": 8.1,
+        "caffeine": 8.9
+      }
+    },
+    {
+      "id": 32,
+      "title": "디카페인 헤이즐넛 라떼",
+      "temperature": "HOT",
+      "title_eng": "Decaf Hazelnut Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105007_1717984207073_HqCto2mw3y.jpg",
+      "nutrition": {
+        "kcal": 240.0,
+        "fat": 4.3,
+        "carbohydrate": 18.2,
+        "sodium": 81.4,
+        "protein": 8.9,
+        "caffeine": 9.4
+      }
+    },
+    {
+      "id": 33,
+      "title": "디카페인 카라멜마끼아또",
+      "temperature": "HOT",
+      "title_eng": "Decaf Caramel Macchiato",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105238_1717984358779_MvgzcNlZdI.jpg",
+      "nutrition": {
+        "kcal": 238.5,
+        "fat": 4.2,
+        "carbohydrate": 21.3,
+        "sodium": 91.3,
+        "protein": 8.9,
+        "caffeine": 7.8
+      }
+    },
+    {
+      "id": 34,
+      "title": "디카페인 연유라떼",
+      "temperature": "HOT",
+      "title_eng": "Decaf Condensed Milk Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105224_1717984344775_9iKsKownRh.jpg",
+      "nutrition": {
+        "kcal": 301.5,
+        "fat": 6.4,
+        "carbohydrate": 27.3,
+        "sodium": 127.1,
+        "protein": 12.3,
+        "caffeine": 9.8
+      }
+    },
+    {
+      "id": 35,
+      "title": "디카페인 카페모카",
+      "temperature": "HOT",
+      "title_eng": "Decaf Cafe Mocha",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105145_1717984305671_2_yE7sXma9.jpg",
+      "nutrition": {
+        "kcal": 430.3,
+        "fat": 13.8,
+        "carbohydrate": 36.1,
+        "sodium": 181.6,
+        "protein": 11.0,
+        "caffeine": 22.8
+      }
+    },
+    {
+      "id": 36,
+      "title": "디카페인 티라미수라떼",
+      "temperature": "HOT",
+      "title_eng": "Decaf Tiramisu Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104827_1717984107715_BxSMVTV5n4.jpg",
+      "nutrition": {
+        "kcal": 436.7,
+        "fat": 14.2,
+        "carbohydrate": 37.2,
+        "sodium": 194.9,
+        "protein": 10.2,
+        "caffeine": 12.1
+      }
+    },
+    {
+      "id": 37,
+      "title": "디카페인 아메리카노",
+      "temperature": "ICE",
+      "title_eng": "Decaf Americano",
+      "size": "One size / 24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240612101052_1718154652699_a0ElVTNb16.jpg",
+      "nutrition": {
+        "kcal": 9.5,
+        "fat": 0.1,
+        "carbohydrate": 0.0,
+        "sodium": 4.4,
+        "protein": 0.5,
+        "caffeine": 10.8
+      }
+    },
+    {
+      "id": 38,
+      "title": "디카페인 메가리카노",
+      "temperature": "ICE",
+      "title_eng": "Decaf Megaricano",
+      "size": "One size / 32oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115001_1717987801368_av938eflM8.jpg",
+      "nutrition": {
+        "kcal": 17.1,
+        "fat": 0.1,
+        "carbohydrate": 0.0,
+        "sodium": 7.9,
+        "protein": 0.9,
+        "caffeine": 10.9
+      }
+    },
+    {
+      "id": 39,
+      "title": "디카페인 꿀아메리카노",
+      "temperature": "ICE",
+      "title_eng": "Decaf Honey Americano",
+      "size": "One size / 24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131949_1717993189396_pb_H77_7AM.jpg",
+      "nutrition": {
+        "kcal": 137.4,
+        "fat": 0.1,
+        "carbohydrate": 21.5,
+        "sodium": 5.0,
+        "protein": 0.6,
+        "caffeine": 8.7
+      }
+    },
+    {
+      "id": 40,
+      "title": "디카페인 헤이즐넛 아메리카노",
+      "temperature": "ICE",
+      "title_eng": "Decaf Hazelnut Americano",
+      "size": "One size / 24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131835_1717993115036_XaPndW7UkR.jpg",
+      "nutrition": {
+        "kcal": 108.7,
+        "fat": 0.0,
+        "carbohydrate": 15.8,
+        "sodium": 5.2,
+        "protein": 0.6,
+        "caffeine": 11.2
+      }
+    },
+    {
+      "id": 41,
+      "title": "디카페인 바닐라 아메리카노",
+      "temperature": "ICE",
+      "title_eng": "Decaf Vanilla Americano",
+      "size": "One size / 24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131932_1717993172929_VUtwLd_LyN.jpg",
+      "nutrition": {
+        "kcal": 112.4,
+        "fat": 0.1,
+        "carbohydrate": 21.6,
+        "sodium": 3.3,
+        "protein": 0.4,
+        "caffeine": 8.8
+      }
+    },
+    {
+      "id": 42,
+      "title": "디카페인 카페라떼",
+      "temperature": "ICE",
+      "title_eng": "Decaf Cafe Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132005_1717993205762_9xKCxaSb9P.jpg",
+      "nutrition": {
+        "kcal": 147.7,
+        "fat": 4.5,
+        "carbohydrate": 9.3,
+        "sodium": 78.0,
+        "protein": 8.2,
+        "caffeine": 14.4
+      }
+    },
+    {
+      "id": 43,
+      "title": "디카페인 카푸치노",
+      "temperature": "ICE",
+      "title_eng": "Decaf Cappuccino",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132018_1717993218605_64Ij4AhmCE.jpg",
+      "nutrition": {
+        "kcal": 127.0,
+        "fat": 3.7,
+        "carbohydrate": 10.1,
+        "sodium": 68.3,
+        "protein": 0.9,
+        "caffeine": 11.4
+      }
+    },
+    {
+      "id": 44,
+      "title": "디카페인 바닐라라떼",
+      "temperature": "ICE",
+      "title_eng": "Decaf Vanilla Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113234_1717986754069_tSPQqoiPj6.jpg",
+      "nutrition": {
+        "kcal": 225.3,
+        "fat": 3.9,
+        "carbohydrate": 29.0,
+        "sodium": 71.4,
+        "protein": 6.8,
+        "caffeine": 8.4
+      }
+    },
+    {
+      "id": 45,
+      "title": "디카페인 헤이즐넛 라떼",
+      "temperature": "ICE",
+      "title_eng": "Decaf Hazelnut Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132034_1717993234457_aGDHQ0U0Ap.jpg",
+      "nutrition": {
+        "kcal": 237.0,
+        "fat": 4.0,
+        "carbohydrate": 23.4,
+        "sodium": 70.7,
+        "protein": 7.4,
+        "caffeine": 4.8
+      }
+    },
+    {
+      "id": 46,
+      "title": "디카페인 카라멜마끼아또",
+      "temperature": "ICE",
+      "title_eng": "Decaf Caramel Macchiato",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131917_1717993157515_k1yeakRwwv.jpg",
+      "nutrition": {
+        "kcal": 232.9,
+        "fat": 3.6,
+        "carbohydrate": 26.3,
+        "sodium": 68.7,
+        "protein": 7.0,
+        "caffeine": 8.2
+      }
+    },
+    {
+      "id": 47,
+      "title": "디카페인 연유라떼",
+      "temperature": "ICE",
+      "title_eng": "Decaf Condensed Milk Latte",
+      "size": "20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610131759_1717993079921_A7Gr7qp0g2.jpg",
+      "nutrition": {
+        "kcal": 305.4,
+        "fat": 7.0,
+        "carbohydrate": 35.1,
+        "sodium": 117.7,
+        "protein": 10.8,
+        "caffeine": 14.9
+      }
+    },
+    {
+      "id": 48,
+      "title": "디카페인 카페모카",
+      "temperature": "ICE",
+      "title_eng": "Decaf Cafe Mocha",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240612101114_1718154674451_BGo4AZa57r.jpg",
+      "nutrition": {
+        "kcal": 319.7,
+        "fat": 9.6,
+        "carbohydrate": 32.6,
+        "sodium": 117.7,
+        "protein": 6.9,
+        "caffeine": 21.9
+      }
+    },
+    {
+      "id": 49,
+      "title": "디카페인 티라미수라떼",
+      "temperature": "ICE",
+      "title_eng": "Decaf Tiramisu Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240612101133_1718154693622_gipo1rzVp8.jpg",
+      "nutrition": {
+        "kcal": 404.3,
+        "fat": 11.6,
+        "carbohydrate": 37.5,
+        "sodium": 176.6,
+        "protein": 7.5,
+        "caffeine": 13.5
+      }
+    },
+    {
+      "id": 50,
+      "title": "딸기쿠키프라페",
+      "temperature": "ICE",
+      "title_eng": "Strawberry Cookie Frappe",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132048_1717993248890_NW1QEUmFtQ.jpg",
+      "nutrition": {
+        "kcal": 575.6,
+        "fat": 15.2,
+        "carbohydrate": 62.2,
+        "sodium": 271.4,
+        "protein": 7.0,
+        "caffeine": 1.6
+      }
+    },
+    {
+      "id": 51,
+      "title": "콜드브루디카페인",
+      "temperature": "ICE",
+      "title_eng": "Decaf Coldbrew ",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132920_1717993760751_69WHioWjnb.jpg",
+      "nutrition": {
+        "kcal": 7.7,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 0.1,
+        "protein": 0.5,
+        "caffeine": 8.7
+      }
+    },
+    {
+      "id": 52,
+      "title": "콜드브루디카페인",
+      "temperature": "HOT",
+      "title_eng": "Decaf Coldbrew ",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105522_1717984522154_Wf1ds9riaV.jpg",
+      "nutrition": {
+        "kcal": 9.4,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 1.9,
+        "protein": 0.6,
+        "caffeine": 13.1
+      }
+    },
+    {
+      "id": 53,
+      "title": "콜드브루디카페인라떼",
+      "temperature": "ICE",
+      "title_eng": "Decaf Coldbrew Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132902_1717993742550_EBciHOxu2w.jpg",
+      "nutrition": {
+        "kcal": 140.8,
+        "fat": 4.0,
+        "carbohydrate": 0.0,
+        "sodium": 45.6,
+        "protein": 7.9,
+        "caffeine": 9.9
+      }
+    },
+    {
+      "id": 54,
+      "title": "콜드브루디카페인라떼",
+      "temperature": "HOT",
+      "title_eng": "Decaf Coldbrew Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105453_1717984493950_uK1VQNQ6kc.jpg",
+      "nutrition": {
+        "kcal": 153.8,
+        "fat": 3.8,
+        "carbohydrate": 0.0,
+        "sodium": 55.2,
+        "protein": 8.6,
+        "caffeine": 14.0
+      }
+    },
+    {
+      "id": 55,
+      "title": "에스프레소",
+      "temperature": "HOT",
+      "title_eng": "Espresso",
+      "size": "2oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105357_1717984437294_AduuhU3VyW.jpg",
+      "nutrition": {
+        "kcal": 7.6,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 0.2,
+        "protein": 0.5,
+        "caffeine": 104.8
+      }
+    },
+    {
+      "id": 56,
+      "title": "에스프레소 도피오",
+      "temperature": "HOT",
+      "title_eng": "Espresso doppio",
+      "size": "5oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105413_1717984453131_1es5v0RxH2.jpg",
+      "nutrition": {
+        "kcal": 15.2,
+        "fat": 0.1,
+        "carbohydrate": 0.0,
+        "sodium": 0.4,
+        "protein": 1.0,
+        "caffeine": 184.7
+      }
+    },
+    {
+      "id": 57,
+      "title": "쿠키프라페",
+      "temperature": "ICE",
+      "title_eng": "Cookie Frappe",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115315_1717987995816_oiPZ2u5dJr.jpg",
+      "nutrition": {
+        "kcal": 725.9,
+        "fat": 17.7,
+        "carbohydrate": 64.9,
+        "sodium": 505.7,
+        "protein": 10.4,
+        "caffeine": 5.9
+      }
+    },
+    {
+      "id": 58,
+      "title": "고구마라떼",
+      "temperature": "HOT",
+      "title_eng": "Sweet Potato Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104240_1717983760778_agCooQEUb4.jpg",
+      "nutrition": {
+        "kcal": 310.5,
+        "fat": 5.0,
+        "carbohydrate": 18.8,
+        "sodium": 96.5,
+        "protein": 9.5,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 59,
+      "title": "곡물라떼",
+      "temperature": "HOT",
+      "title_eng": "Grain Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104323_1717983803197_Dpwa_RK4_F.jpg",
+      "nutrition": {
+        "kcal": 467.5,
+        "fat": 4.8,
+        "carbohydrate": 40.5,
+        "sodium": 100.3,
+        "protein": 18.1,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 60,
+      "title": "토피넛라떼",
+      "temperature": "HOT",
+      "title_eng": "Toffeenut Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105954_1717984794244_2JeEMNYiCL.jpg",
+      "nutrition": {
+        "kcal": 368.0,
+        "fat": 7.0,
+        "carbohydrate": 17.8,
+        "sodium": 172.7,
+        "protein": 9.4,
+        "caffeine": 56.2
+      }
+    },
+    {
+      "id": 61,
+      "title": "고구마라떼",
+      "temperature": "ICE",
+      "title_eng": "Sweet Potato Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112707_1717986427949_WKHpsJWXlk.jpg",
+      "nutrition": {
+        "kcal": 248.8,
+        "fat": 3.8,
+        "carbohydrate": 21.6,
+        "sodium": 72.8,
+        "protein": 6.5,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 62,
+      "title": "곡물라떼",
+      "temperature": "ICE",
+      "title_eng": "Grain Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112734_1717986454714_tTXJ2aV1O8.jpg",
+      "nutrition": {
+        "kcal": 389.7,
+        "fat": 4.8,
+        "carbohydrate": 38.3,
+        "sodium": 87.7,
+        "protein": 17.3,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 63,
+      "title": "오레오초코라떼",
+      "temperature": "ICE",
+      "title_eng": "Oreo Chocolate Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132638_1717993598875_AQ4q6GUaJD.jpg",
+      "nutrition": {
+        "kcal": 451.5,
+        "fat": 14.7,
+        "carbohydrate": 33.6,
+        "sodium": 268.1,
+        "protein": 9.7,
+        "caffeine": 10.5
+      }
+    },
+    {
+      "id": 64,
+      "title": "토피넛라떼",
+      "temperature": "ICE",
+      "title_eng": "Toffeenut Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132535_1717993535868_Dk0SpiNnAo.jpg",
+      "nutrition": {
+        "kcal": 364.5,
+        "fat": 8.3,
+        "carbohydrate": 22.5,
+        "sodium": 172.7,
+        "protein": 9.2,
+        "caffeine": 54.0
+      }
+    },
+    {
+      "id": 65,
+      "title": "흑당버블밀크티라떼",
+      "temperature": "ICE",
+      "title_eng": "Brown Sugar Bubble Milktea Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112956_1717986596859_dSAYDVVaV2.jpg",
+      "nutrition": {
+        "kcal": 330.2,
+        "fat": 4.3,
+        "carbohydrate": 24.4,
+        "sodium": 106.7,
+        "protein": 7.6,
+        "caffeine": 14.3
+      }
+    },
+    {
+      "id": 66,
+      "title": "핫초코",
+      "temperature": "HOT",
+      "title_eng": "Hot Chocolate",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110045_1717984845295_sGoEnUlQpO.jpg",
+      "nutrition": {
+        "kcal": 383.4,
+        "fat": 5.3,
+        "carbohydrate": 53.2,
+        "sodium": 177.3,
+        "protein": 10.9,
+        "caffeine": 21.9
+      }
+    },
+    {
+      "id": 67,
+      "title": "녹차라떼",
+      "temperature": "HOT",
+      "title_eng": "Green Tea Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104456_1717983896154_TxgXQHRHiM.jpg",
+      "nutrition": {
+        "kcal": 280.4,
+        "fat": 4.4,
+        "carbohydrate": 14.3,
+        "sodium": 85.0,
+        "protein": 9.1,
+        "caffeine": 114.5
+      }
+    },
+    {
+      "id": 68,
+      "title": "로얄밀크티라떼",
+      "temperature": "HOT",
+      "title_eng": "Royal Milk Tea Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105616_1717984576627_IStTaWZY3_.jpg",
+      "nutrition": {
+        "kcal": 232.0,
+        "fat": 4.5,
+        "carbohydrate": 14.7,
+        "sodium": 85.2,
+        "protein": 8.3,
+        "caffeine": 106.2
+      }
+    },
+    {
+      "id": 69,
+      "title": "흑당라떼",
+      "temperature": "ICE",
+      "title_eng": "Brown Sugar Latte (No Pearls)",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113159_1717986719673_UjpcQYhtmh.jpg",
+      "nutrition": {
+        "kcal": 322.0,
+        "fat": 5.2,
+        "carbohydrate": 33.6,
+        "sodium": 107.6,
+        "protein": 8.3,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 70,
+      "title": "흑당밀크티라떼",
+      "temperature": "ICE",
+      "title_eng": "Brown Sugar Milk tea Latte (No pearls)",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113123_1717986683549_Q8E9tuNYJL.jpg",
+      "nutrition": {
+        "kcal": 300.5,
+        "fat": 4.5,
+        "carbohydrate": 22.6,
+        "sodium": 104.4,
+        "protein": 8.4,
+        "caffeine": 30.6
+      }
+    },
+    {
+      "id": 71,
+      "title": "흑당버블라떼",
+      "temperature": "ICE",
+      "title_eng": "Brown Sugar Bubble Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610113023_1717986623453_FuG0kt97Jg.jpg",
+      "nutrition": {
+        "kcal": 320.3,
+        "fat": 4.1,
+        "carbohydrate": 27.2,
+        "sodium": 104.9,
+        "protein": 7.2,
+        "caffeine": 0.0
+      }
+    },
+    {
+      "id": 72,
+      "title": "아이스초코",
+      "temperature": "ICE",
+      "title_eng": "Ice Choco",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132420_1717993460739_Yi5zAd90Og.jpg",
+      "nutrition": {
+        "kcal": 369.2,
+        "fat": 4.4,
+        "carbohydrate": 33.5,
+        "sodium": 163.0,
+        "protein": 9.0,
+        "caffeine": 21.3
+      }
+    },
+    {
+      "id": 73,
+      "title": "녹차라떼",
+      "temperature": "ICE",
+      "title_eng": "Green Tea Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610112917_1717986557781__XIcwRbg0h.jpg",
+      "nutrition": {
+        "kcal": 288.5,
+        "fat": 4.8,
+        "carbohydrate": 21.2,
+        "sodium": 52.3,
+        "protein": 8.5,
+        "caffeine": 135.9
+      }
+    },
+    {
+      "id": 74,
+      "title": "로얄밀크티라떼",
+      "temperature": "ICE",
+      "title_eng": "Royal Milk Tea Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610115251_1717987971895_crJlbiHg7t.jpg",
+      "nutrition": {
+        "kcal": 254.6,
+        "fat": 4.2,
+        "carbohydrate": 20.2,
+        "sodium": 68.4,
+        "protein": 6.6,
+        "caffeine": 118.1
+      }
+    },
+    {
+      "id": 75,
+      "title": "아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105645_1717984605982_8i5CoHU2NV.jpg",
+      "nutrition": {
+        "kcal": 12.2,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 2.4,
+        "protein": 0.9,
+        "caffeine": 204.2
+      }
+    },
+    {
+      "id": 76,
+      "title": "티라미수라떼",
+      "temperature": "HOT",
+      "title_eng": "Tiramisu Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110012_1717984812018_NPttY_PPM3.jpg",
+      "nutrition": {
+        "kcal": 419.5,
+        "fat": 13.1,
+        "carbohydrate": 38.4,
+        "sodium": 194.5,
+        "protein": 10.4,
+        "caffeine": 206.9
+      }
+    },
+    {
+      "id": 77,
+      "title": "메가리카노",
+      "temperature": "ICE",
+      "title_eng": "32oz Americano",
+      "size": "One size / 32oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132223_1717993343456_4KESgpG57t.jpg",
+      "nutrition": {
+        "kcal": 16.7,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 0.7,
+        "protein": 1.5,
+        "caffeine": 290.8
+      }
+    },
+    {
+      "id": 78,
+      "title": "티라미수라떼",
+      "temperature": "ICE",
+      "title_eng": "Tiramisu Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132847_1717993727622_rgN3k3NGOE.jpg",
+      "nutrition": {
+        "kcal": 400.6,
+        "fat": 12.6,
+        "carbohydrate": 37.8,
+        "sodium": 174.3,
+        "protein": 7.8,
+        "caffeine": 196.0
+      }
+    },
+    {
+      "id": 79,
+      "title": "꿀아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Honey Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104349_1717983829122_YzOyiQAOOg.jpg",
+      "nutrition": {
+        "kcal": 172.4,
+        "fat": 0.1,
+        "carbohydrate": 30.4,
+        "sodium": 12.7,
+        "protein": 0.9,
+        "caffeine": 199.4
+      }
+    },
+    {
+      "id": 80,
+      "title": "바닐라라떼",
+      "temperature": "HOT",
+      "title_eng": "Vanilla Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104603_1717983963750_lApih2z1h0.jpg",
+      "nutrition": {
+        "kcal": 235.2,
+        "fat": 4.7,
+        "carbohydrate": 29.6,
+        "sodium": 86.9,
+        "protein": 8.7,
+        "caffeine": 189.9
+      }
+    },
+    {
+      "id": 81,
+      "title": "바닐라아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Vanilla Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610104740_1717984060714__tk3s9Kb_s.jpg",
+      "nutrition": {
+        "kcal": 97.8,
+        "fat": 0.1,
+        "carbohydrate": 15.7,
+        "sodium": 5.3,
+        "protein": 1.4,
+        "caffeine": 220.7
+      }
+    },
+    {
+      "id": 82,
+      "title": "연유라떼",
+      "temperature": "HOT",
+      "title_eng": "Condensed milk Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105712_1717984632188_Lqh27degWu.jpg",
+      "nutrition": {
+        "kcal": 321.6,
+        "fat": 6.4,
+        "carbohydrate": 32.8,
+        "sodium": 144.6,
+        "protein": 13.0,
+        "caffeine": 194.2
+      }
+    },
+    {
+      "id": 83,
+      "title": "카라멜마끼아또",
+      "temperature": "HOT",
+      "title_eng": "Caramel Macchiato",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105805_1717984685954_T1qos0ocDV.jpg",
+      "nutrition": {
+        "kcal": 244.9,
+        "fat": 5.0,
+        "carbohydrate": 20.9,
+        "sodium": 76.1,
+        "protein": 8.9,
+        "caffeine": 206.7
+      }
+    },
+    {
+      "id": 84,
+      "title": "카페라떼",
+      "temperature": "HOT",
+      "title_eng": "Caffe Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105821_1717984701991_RUKCqSZ_HO.jpg",
+      "nutrition": {
+        "kcal": 175.4,
+        "fat": 5.2,
+        "carbohydrate": 10.8,
+        "sodium": 101.5,
+        "protein": 10.0,
+        "caffeine": 189.9
+      }
+    },
+    {
+      "id": 85,
+      "title": "카페모카",
+      "temperature": "HOT",
+      "title_eng": "Caffe Mocha",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105838_1717984718108_ZB6aalHqIU.jpg",
+      "nutrition": {
+        "kcal": 349.9,
+        "fat": 12.6,
+        "carbohydrate": 39.4,
+        "sodium": 150.6,
+        "protein": 10.3,
+        "caffeine": 242.2
+      }
+    },
+    {
+      "id": 86,
+      "title": "카푸치노",
+      "temperature": "HOT",
+      "title_eng": "Cappuccino",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105852_1717984732750_WEt0KXVcnQ.jpg",
+      "nutrition": {
+        "kcal": 145.5,
+        "fat": 4.1,
+        "carbohydrate": 3.4,
+        "sodium": 60.7,
+        "protein": 8.2,
+        "caffeine": 201.4
+      }
+    },
+    {
+      "id": 87,
+      "title": "콜드브루라떼",
+      "temperature": "HOT",
+      "title_eng": "Coldbrew Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105923_1717984763591_cKSGllWUzt.jpg",
+      "nutrition": {
+        "kcal": 164.2,
+        "fat": 5.2,
+        "carbohydrate": 2.1,
+        "sodium": 54.4,
+        "protein": 9.0,
+        "caffeine": 216.7
+      }
+    },
+    {
+      "id": 88,
+      "title": "콜드브루오리지널",
+      "temperature": "HOT",
+      "title_eng": "Coldbrew",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610105941_1717984781078_rdCUXhwycL.jpg",
+      "nutrition": {
+        "kcal": 10.6,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 1.5,
+        "protein": 1.0,
+        "caffeine": 217.0
+      }
+    },
+    {
+      "id": 89,
+      "title": "헤이즐넛라떼",
+      "temperature": "HOT",
+      "title_eng": "Hazelnut Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110117_1717984877061_sLiVRNPq6J.jpg",
+      "nutrition": {
+        "kcal": 240.5,
+        "fat": 5.1,
+        "carbohydrate": 9.7,
+        "sodium": 63.1,
+        "protein": 9.1,
+        "caffeine": 204.6
+      }
+    },
+    {
+      "id": 90,
+      "title": "헤이즐넛아메리카노",
+      "temperature": "HOT",
+      "title_eng": "Hazelnut Americano",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610110133_1717984893137_AqJAuHaq0t.jpg",
+      "nutrition": {
+        "kcal": 82.7,
+        "fat": 0.0,
+        "carbohydrate": 9.5,
+        "sodium": 2.6,
+        "protein": 0.9,
+        "caffeine": 209.8
+      }
+    },
+    {
+      "id": 91,
+      "title": "꿀아메리카노",
+      "temperature": "ICE",
+      "title_eng": "Honey Americano",
+      "size": "One size / 24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610133054_1717993854434_bTty_9u3br.jpg",
+      "nutrition": {
+        "kcal": 162.2,
+        "fat": 0.1,
+        "carbohydrate": 30.6,
+        "sodium": 7.2,
+        "protein": 0.9,
+        "caffeine": 198.6
+      }
+    },
+    {
+      "id": 92,
+      "title": "바닐라라떼",
+      "temperature": "ICE",
+      "title_eng": "Vanilla Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132249_1717993369864_VIG6IR2byt.jpg",
+      "nutrition": {
+        "kcal": 239.2,
+        "fat": 3.9,
+        "carbohydrate": 23.7,
+        "sodium": 74.1,
+        "protein": 7.1,
+        "caffeine": 195.1
+      }
+    },
+    {
+      "id": 93,
+      "title": "바닐라아메리카노",
+      "temperature": "ICE",
+      "title_eng": "Vanilla Americano",
+      "size": "One size / 24oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610133038_1717993838652__Ax_Xwuz6T.jpg",
+      "nutrition": {
+        "kcal": 122.7,
+        "fat": 0.1,
+        "carbohydrate": 20.2,
+        "sodium": 3.6,
+        "protein": 1.1,
+        "caffeine": 211.5
+      }
+    },
+    {
+      "id": 94,
+      "title": "카라멜마끼아또",
+      "temperature": "ICE",
+      "title_eng": "Caramel Macchiato",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132714_1717993634339_dshEGyCDsC.jpg",
+      "nutrition": {
+        "kcal": 243.9,
+        "fat": 3.9,
+        "carbohydrate": 18.5,
+        "sodium": 61.1,
+        "protein": 7.1,
+        "caffeine": 208.0
+      }
+    },
+    {
+      "id": 95,
+      "title": "카페라떼",
+      "temperature": "ICE",
+      "title_eng": "Caffe Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132819_1717993699956_cEyZRaBZh5.jpg",
+      "nutrition": {
+        "kcal": 145.1,
+        "fat": 3.8,
+        "carbohydrate": 9.2,
+        "sodium": 88.5,
+        "protein": 8.5,
+        "caffeine": 199.1
+      }
+    },
+    {
+      "id": 96,
+      "title": "카페모카",
+      "temperature": "ICE",
+      "title_eng": "Caffe Mocha",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132727_1717993647297_GiQ8g7jOCk.jpg",
+      "nutrition": {
+        "kcal": 298.0,
+        "fat": 9.3,
+        "carbohydrate": 30.5,
+        "sodium": 130.4,
+        "protein": 6.7,
+        "caffeine": 223.2
+      }
+    },
+    {
+      "id": 97,
+      "title": "카푸치노",
+      "temperature": "ICE",
+      "title_eng": "Cappuccino",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132739_1717993659672_JFeCQ5qV53.jpg",
+      "nutrition": {
+        "kcal": 132.4,
+        "fat": 4.2,
+        "carbohydrate": 1.1,
+        "sodium": 54.8,
+        "protein": 7.0,
+        "caffeine": 192.3
+      }
+    },
+    {
+      "id": 98,
+      "title": "콜드브루라떼",
+      "temperature": "ICE",
+      "title_eng": "Coldbrew Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132935_1717993775051_eflW8NpTDq.jpg",
+      "nutrition": {
+        "kcal": 167.6,
+        "fat": 4.1,
+        "carbohydrate": 2.3,
+        "sodium": 35.4,
+        "protein": 7.0,
+        "caffeine": 131.7
+      }
+    },
+    {
+      "id": 99,
+      "title": "콜드브루오리지널",
+      "temperature": "ICE",
+      "title_eng": "Coldbrew",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240610132948_1717993788811_j_eYzA1Esd.jpg",
+      "nutrition": {
+        "kcal": 7.2,
+        "fat": 0.0,
+        "carbohydrate": 0.0,
+        "sodium": 0.4,
+        "protein": 0.8,
+        "caffeine": 156.4
+      }
+    },
+    {
+      "id": 100,
+      "title": "헤이즐넛라떼",
+      "temperature": "ICE",
+      "title_eng": "Hazelnut Latte",
+      "size": "One size / 20oz",
+      "img_urls": "https://img.79plus.co.kr/megahp/manager/upload/menu/20240430104100_1714441260123_buRoeWVyce.jpg",
+      "nutrition": {
+        "kcal": 237.4,
+        "fat": 4.6,
+        "carbohydrate": 10.8,
+        "sodium": 57.0,
+        "protein": 7.3,
+        "caffeine": 216.9
+      }
+    }
+  ]
+}
